@@ -18,7 +18,7 @@ AMV Format - Actions 1.8 inch 128x160 players
 AMV Format - Actions 2.4 inch 240x320 players  
 MP4 Format - Spreadtrum 1.8 inch 128x160 players  
 
-## How to know to the kind of player
+## How to know the kind of player
 
 Brandless portable mp3 players often dont specify clearly the video format that is supported, to know what type of format is there is available sample videos in the folder test_videos_to_know_format_supported.
 

@@ -24,11 +24,11 @@ Brandless portable mp3 players often dont specify clearly the video format that 
 
 ## Usage
 
-    $ video2shenju24 <video file>
-    $ video2shenju18 <video file>
-    $ video2actions24 <video file>
-    $ video2actions18 <video file>
-    $ video2spreadtrum18 <video file>
+    $ video2shenju24.sh <video file>
+    $ video2shenju18.sh <video file>
+    $ video2actions24.sh <video file>
+    $ video2actions18.sh <video file>
+    $ video2spreadtrum18.sh <video file>
 
 ## Examples
 

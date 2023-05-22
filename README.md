@@ -59,6 +59,9 @@ ffmpeg -i source.mp4 -vf "scale=-2:240, crop=320:240" -r 14 -pix_fmt yuv420p -c:
 MP4 Format - Spreadtrum 1.8 inch:  
 ffmpeg -i source.mp4 -vf "scale=-2:128, crop=160:128" -r 14 -pix_fmt yuv420p -c:v libx264 -profile:v baseline -level 1 -c:a aac -b:a 160k dest.mp4  
 
+## Related projects
+
+https://github.com/fdd4s/shazam-autotag
 
 ## Credits
 

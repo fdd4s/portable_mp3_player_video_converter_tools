@@ -1,6 +1,6 @@
 # portable mp3 player - video converter tools
 
-## What does
+## What it does
 
 scripts to convert videos into several portable mp3 players formats through ffmpeg. It creates as result a file with the same name than source but ended in "-p".
 

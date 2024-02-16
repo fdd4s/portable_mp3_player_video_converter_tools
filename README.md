@@ -14,8 +14,8 @@ this code is designed to work over linux.
 
 AVI Format - Shenju 1.8 inch 128x160 players branded as Rockstar Audio Player  
 AVI Format - Shenju 2.4 inch 240x320 players  
-AMV Format - Actions 1.8 inch 128x160 players branded as Zyzy Music Player 
-AMV Format - Actions 2.4 inch 240x320 players branded as Rijaho Music Player 
+AMV Format - Actions 1.8 inch 128x160 players branded as Zyzy Music Player  
+AMV Format - Actions 2.4 inch 240x320 players branded as Rijaho Music Player  
 MP4 Format - Spreadtrum 1.8 inch 128x160 players branded as Rockstar Audio Player  
 
 ## How to know the kind of player

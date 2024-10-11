@@ -90,7 +90,7 @@ All those players are/were available to buy in AliExpress and similar online sho
 2.4 inch Shenju Portable MP3 Player touchscreen https://s.click.aliexpress.com/e/_DEnTDFZ  
 1.8 inch Shenju Portable MP3 Player round button https://s.click.aliexpress.com/e/_DDVf1Ph  
 1.8 inch Shenju Portable MP3 Player round button https://s.click.aliexpress.com/e/_DmEggA7  
-1.8 inch Shenju Portable MP3 Player side button https://s.click.aliexpress.com/e/_DlJWPNf
+1.8 inch Shenju Portable MP3 Player side button https://s.click.aliexpress.com/e/_DlJWPNf  
 1.8 inch Actions Hello Kitty MP3 Player https://s.click.aliexpress.com/e/_DDUd7U5  
 1.8 inch MKTEL Oye 3 Feature phone https://s.click.aliexpress.com/e/_Deu0nvz  
 1.8 inch MKTEL M2023 Feature phone https://s.click.aliexpress.com/e/_Dk0CZNB  

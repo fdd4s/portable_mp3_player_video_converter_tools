@@ -14,8 +14,8 @@ these scripts are designed to run in linux.
 
 AVI Format - Portable MP3 Player Shenju YP3 1.8 inch 128x160 branded as Rockstar Audio Player, AideeMaster  
 AVI Format - Portable MP3 Player Shenju YP3 2.4 inch 240x320 branded as Rockstar Audio Player, Mini Music Player  
-AMV Format - Portable MP3 Player Actions 1.8 inch 128x160 branded as Zyzy Music Player, Hello Kitty MP3 Player  
-AMV Format - Portable MP3 Player Actions 2.4 inch 240x320 branded as Rijaho Music Player, RUIZU Music Player  
+AMV Format - Portable MP3 Player Actions 1.8 inch 128x160 branded as Zyzy Music Player, Hello Kitty MP3 Player, RUIZU Music Player, Benjie Audio Player  
+AMV Format - Portable MP3 Player Actions 2.4 inch 240x320 branded as Rijaho Music Player, RUIZU Music Player, Benjie Audio Player  
 MP4 Format - Portable MP3 Player Spreadtrum UNISOC 1.8 inch 128x160 branded as Rockstar Audio Player (2022 discontinued)  
 3GP Format - Feature Phone 1.8 inch 128x160 branded as MKTEL OYE 3, MKTEL M2023  
 3GP Format - Feature Phone 2.4 and 2.8 inch 240x320 feature phone branded as S-Mobile, Servo, MKTEL 14 PRO MAX, Hoswn i79  

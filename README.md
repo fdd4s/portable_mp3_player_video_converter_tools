@@ -64,7 +64,7 @@ ffmpeg -i source.mp4 -vf "scale=-2:128, crop=160:128" -r 14 -pix_fmt yuv420p -c:
 Feature Phone 3GP Format - 1.8 inch:  
 ffmpeg -i source.mp4 -vf "scale=-2:144,crop=176:144" -q:v 1 -r 14 -ar 44100 -ac 2 -c:a aac -b:a 320k dest.3gp  
 
-Feature Phone 3GP Format - 2.4 inch and 2.8 inch:
+Feature Phone 3GP Format - 2.4 inch and 2.8 inch:  
 ffmpeg -i source.mp4 -vf "scale=-2:288,crop=352:288" -q:v 1 -r 14 -ar 44100 -ac 2 -c:a aac -b:a 320k dest.3gp 
 
 Handheld Game Console MP4 Format - 4.3 inch:  

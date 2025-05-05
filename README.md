@@ -95,6 +95,10 @@ All those players are/were available to buy in AliExpress and similar online sho
 1.8 inch MKTEL Oye 3 Feature phone https://s.click.aliexpress.com/e/_Deu0nvz  
 1.8 inch MKTEL M2023 Feature phone https://s.click.aliexpress.com/e/_Dk0CZNB  
 
+## 2025 new portable players
+
+https://github.com/fdd4s/portable_music_player_avi_video_converter_tool_2025
+
 ## Related projects
 
 https://github.com/fdd4s/shazam-autotag

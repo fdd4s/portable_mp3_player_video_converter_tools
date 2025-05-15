@@ -94,8 +94,15 @@ All those players are/were available to buy in AliExpress and similar online sho
 1.8 inch Actions Hello Kitty MP3 Player https://s.click.aliexpress.com/e/_DDUd7U5  
 1.8 inch MKTEL Oye 3 Feature phone https://s.click.aliexpress.com/e/_Deu0nvz  
 1.8 inch MKTEL M2023 Feature phone https://s.click.aliexpress.com/e/_Dk0CZNB  
+  
+2025 new portable players  
+  
+1.8 inch Button Portable Music Player https://s.click.aliexpress.com/e/_oCC1BC9  
+2.0 inch Touch Portable Music Player https://s.click.aliexpress.com/e/_oC3nAlL  
+2.4 inch Touch Portable Music Player https://s.click.aliexpress.com/e/_oo806v7  
+2.4 inch Touch Portable Music Player 2 https://s.click.aliexpress.com/e/_ooyuSkf  
 
-## 2025 new portable players
+## 2025 new portable players video converter tool
 
 https://github.com/fdd4s/portable_music_player_avi_video_converter_tool_2025
 

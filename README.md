@@ -71,7 +71,7 @@ ffmpeg -i source.mp4 -vf "scale=-2:288,crop=352:288" -q:v 1 -r 14 -ar 44100 -ac 
 MP5 X7 Handheld Game Console MP4 Format - 4.3 inch:  
 ffmpeg -i source.mp4 -vf "scale=-2:272, crop=480:272" -r 14 -pix_fmt yuv420p -c:v libx264 -profile:v baseline -level 1 -c:a aac -b:a 160k dest.mp4  
 
-R36S Linux based Handheld Game Console MP4 Format - 4.3 inch:  
+R36S Linux based Handheld Game Console MP4 Format - 3.5 inch:  
 ffmpeg -i source.mp4 -vf "scale=-2:480, crop=640:480" -r 14 -pix_fmt yuv420p -c:v libx264 -profile:v baseline -level 1 -c:a aac -b:a 160k dest.mp4  
 
 ## How to add subtitles

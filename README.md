@@ -19,7 +19,8 @@ AMV Format - Portable MP3 Player Actions 2.4 inch 240x320 branded as Rijaho Musi
 MP4 Format - Portable MP3 Player Spreadtrum UNISOC 1.8 inch 128x160 branded as Rockstar Audio Player (2022 discontinued)  
 3GP Format - Feature Phone 1.8 inch 128x160 branded as MKTEL OYE 3, MKTEL M2023  
 3GP Format - Feature Phone 2.4 and 2.8 inch 240x320 feature phone branded as S-Mobile, Servo, MKTEL 14 PRO MAX, Hoswn i79  
-MP4 Format - Handheld Game Console 4.3 inch 480x272 handheld game console branded as MP5 X7  
+MP4 Format - MP5 X7 Handheld Game Console 4.3 inch 480x272 handheld game console branded as MP5 X7  
+MP4 Format - R36S Linux based Handheld Game Console 3.5 inch 640x480 handheld game console branded as R36S  
 
 ## How to know the player format
 
@@ -67,8 +68,11 @@ ffmpeg -i source.mp4 -vf "scale=-2:144,crop=176:144" -q:v 1 -r 14 -ar 44100 -ac 
 Feature Phone 3GP Format - 2.4 inch and 2.8 inch:  
 ffmpeg -i source.mp4 -vf "scale=-2:288,crop=352:288" -q:v 1 -r 14 -ar 44100 -ac 2 -c:a aac -b:a 320k dest.3gp 
 
-Handheld Game Console MP4 Format - 4.3 inch:  
+MP5 X7 Handheld Game Console MP4 Format - 4.3 inch:  
 ffmpeg -i source.mp4 -vf "scale=-2:272, crop=480:272" -r 14 -pix_fmt yuv420p -c:v libx264 -profile:v baseline -level 1 -c:a aac -b:a 160k dest.mp4  
+
+R36S Linux based Handheld Game Console MP4 Format - 4.3 inch:  
+ffmpeg -i source.mp4 -vf "scale=-2:480, crop=640:480" -r 14 -pix_fmt yuv420p -c:v libx264 -profile:v baseline -level 1 -c:a aac -b:a 160k dest.mp4  
 
 ## How to add subtitles
 
@@ -83,8 +87,9 @@ e.g: ffmpeg -i source.mp4 -vf "scale=-2:128, crop=160:128, transpose=2, vflip" -
 ## Where to get those players?
 
 All those players are/were available to buy in AliExpress and similar online shops (Shopee, eBay, and so on).  
-  
-4.3 inch MP5 X7 4.3 https://s.click.aliexpress.com/e/_DDK6N4H  
+
+3.5 inch R36S Linux game console https://s.click.aliexpress.com/e/_c40iPQr7  
+4.3 inch MP5 X7 4.3 https://s.click.aliexpress.com/e/_c4n83cC5  
 2.8 inch S-Mobile Feature phone https://s.click.aliexpress.com/e/_Dmwte27  
 2.4 inch Hoswn i79 Feature phone https://s.click.aliexpress.com/e/_DlKuR7F  
 2.4 inch Shenju Portable MP3 Player touchscreen https://s.click.aliexpress.com/e/_DEnTDFZ  
@@ -99,8 +104,7 @@ All those players are/were available to buy in AliExpress and similar online sho
   
 1.8 inch Button Portable Music Player https://s.click.aliexpress.com/e/_oCC1BC9  
 2.0 inch Touch Portable Music Player https://s.click.aliexpress.com/e/_oC3nAlL  
-2.4 inch Touch Portable Music Player https://s.click.aliexpress.com/e/_oo806v7  
-2.4 inch Touch Portable Music Player 2 https://s.click.aliexpress.com/e/_ooyuSkf  
+2.4 inch Touch Portable Music Player https://s.click.aliexpress.com/e/_ooyuSkf  
 
 ## 2025 new portable players video converter tool
 
